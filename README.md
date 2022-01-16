@@ -5,6 +5,6 @@ The main java code is in /ncs/src/main/java/ncs/App.java file and the testing is
 
 The application is build using Java and Maven.
 
-The application can be run by using the ```mvn test``` command.
+The application can be run by using the ```mvn clean``` or ```mvn test``` commands.
 
 
